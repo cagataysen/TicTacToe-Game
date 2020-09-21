@@ -4,7 +4,7 @@ To make TicTacToe game firstly we implement a board elements globally. Firstly w
 
 Board places defined as numbers which are 1 to 9 because we have 9 places to put our X or O s. 
 
-We can organize the code by this sequence : 
+We can organize the functions by this sequence : 
 
 #board
 
@@ -25,3 +25,4 @@ We can organize the code by this sequence :
 #flip player
 
 
+In this way we can easily code step by step and move on for more. We can add some features with this steps easily. 

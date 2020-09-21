@@ -1,8 +1,19 @@
 # TicTacToe-Game
 
-https://www.youtube.com/watch?v=BHh654_7Cmw
+To make TicTacToe game firstly we implement a board elements globally. Firstly we show the board and if we implement something, we can clearly see what we have done so far. 
 
-This Tic Tac Toe project was taken from the link above. 
+Board places defined as numbers which are 1 to 9 because we have 9 places to put our X or O s. 
 
-Necessary explanation about the code is obtainable on the video. Also all necessary comments are made in the source code. 
+We can organize the code by this sequence : 
+
+#board
+#display board
+#play game
+#check win
+#check rows
+#check columns
+#check diagonals
+#check tie
+#flip player
+
 
